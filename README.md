@@ -8,5 +8,10 @@ To run MCP Inspector
 npx @modelcontextprotocol/inspector node index.js
 ```
 
-[MCP Inspector](https://modelcontextprotocol.io/docs/tools/inspector)
+Then open
 
+```
+http://localhost:5173/
+```
+
+[MCP Inspector](https://modelcontextprotocol.io/docs/tools/inspector)
